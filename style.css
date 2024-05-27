@@ -1,6 +1,6 @@
 body{
     background-color: hsl(0, 0%, 8%);
-    height: 800px;
+    height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,15 +35,16 @@ body{
     flex-direction: column;
     align-items: center;
     color: hsl(75, 94%, 57%);
-    font-weight: 400;
+    font-weight: 600;
+    font-size: 14px;
    
     
 }
 
 img{
     border-radius: 100px;
-    height: 70px;
-    width: 70px;   
+    height: 40%;
+    width: 40%;  
 }
 p{
     display: flex;
